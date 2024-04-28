@@ -92,6 +92,10 @@ function Tracks() {
           Picture=" "
           AudioTrack="https://anthonyjonesmusic.s3.us-east-2.amazonaws.com/Bounced+Trax/highrates.mp3"
         />
+        <TrackView 
+          Trackname=''
+        
+        />
       </section>
     </>
   );
